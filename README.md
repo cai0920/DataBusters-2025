@@ -1,4 +1,4 @@
-# DataBusters 2025
+# DataBusters-2025
 
 DataBusters challenge opened by NUS Data Science and Economic Student Committee 2025. 
 
