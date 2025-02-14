@@ -1,6 +1,6 @@
 # DataBusters 2025
 
-DataBesters challenge opened by NUS Data Science and Economic Student Committee 2025. 
+DataBusters challenge opened by NUS Data Science and Economic Student Committee 2025. 
 
 Description: This is a time series forecast and prediction on the Federal Reserve Economic Data (FRED) on whether an economic contraction will occur at Quarter 1, 2 and 4 in 2025.
 
